@@ -79,7 +79,7 @@ body {
 }
 
 .timer-box__text {
-  color: #311643;
+/*   color: #311643; */
   display: grid;
   place-items: center;
   padding: 1rem 0;
